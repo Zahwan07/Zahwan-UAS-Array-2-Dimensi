@@ -14,7 +14,7 @@ Algoritma dari source code ini: <br>
 <ol>
 <li>User menginputkan berapa banyak baris pada array yang akan dimasukan </li>
 <li>User menginputkan berapa banyak kolom pada array yang akan dimasukan</li>
-<li>User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.</li>
+<li>User menginputkan nilai satu persatu pada array,dimulai dari baris 1 dan kolom 1.</li>
 <li>Setelah nilai-nilai di input, Nilai dalam array tersebut di tampilkan sesuai aturan matriks.</li>
 <li>Kemudian nilai dicek kembali apakah nilai tersebut dapat habis jika dibagi 3,5 dan 7.</li>
 <li>Jika nilai habis dibagi 3,5 dan 7, nilai akan ditampilka kepada user. Jika tidak habis, nilai tidak akan ditampilkan kembali kepada user</li>
